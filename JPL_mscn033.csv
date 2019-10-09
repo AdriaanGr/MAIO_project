@@ -3,14 +3,13 @@ mscn,33
 lat,
 lon,
 mscn_area,116299.1143
-clm_sf,1.25222358
 CRI Filter,land
 land_area,94701.4443
 Solution,JPL RL06M v01 Mascons
-Acknowledgement,"GRACE land are available at http://grace.jpl.nasa.gov, supported by the NASA MEaSUREs Program."
-Citation 1,"D.N. Wiese. 2015. GRACE monthly global water mass grids NETCDF RELEASE 5.0. Ver. 5.0. PO.DAAC, CA, USA. Dataset accessed 2017-07-01 at http://dx.doi.org/10.5067/TEMSC-OCL05."
-Citation 2,"Watkins, M. M., D. N. Wiese, D.-N. Yuan, C. Boening, and F. W. Landerer (2015), Improved methods for observing Earth’s time variable mass distribution with GRACE using spherical cap mascons, J. Geophys. Res. Solid Earth, 120, doi:10.1002/2014JB011547."
-Citation 3,"Wiese, D. N., F. W. Landerer, and M. M. Watkins (2016), Quantifying and reducing leakage errors in the JPL RL05M GRACE mascon solution, Water Resour. Res., 52, 7490–7502, doi:10.1002/2016WR019344."
+"Acknowledgement,""GRACE land are available at http://grace.jpl.nasa.gov, supported by the NASA MEaSUREs Program."""
+"Citation 1,""D.N. Wiese. 2015. GRACE monthly global water mass grids NETCDF RELEASE 5.0. Ver. 5.0. PO.DAAC, CA, USA. Dataset accessed 2017-07-01 at http://dx.doi.org/10.5067/TEMSC-OCL05."""
+"Citation 2,""Watkins, M. M., D. N. Wiese, D.-N. Yuan, C. Boening, and F. W. Landerer (2015), Improved methods for observing Earth’s time variable mass distribution with GRACE using spherical cap mascons, J. Geophys. Res. Solid Earth, 120, doi:10.1002/2014JB011547."""
+"Citation 3,""Wiese, D. N., F. W. Landerer, and M. M. Watkins (2016), Quantifying and reducing leakage errors in the JPL RL05M GRACE mascon solution, Water Resour. Res., 52, 7490–7502, doi:10.1002/2016WR019344."""
 Data Portal,http://ccar.colorado.edu/grace/
 
 days since 1/1/2002,cmwe
