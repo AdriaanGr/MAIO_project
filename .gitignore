@@ -1,1 +1,4 @@
 *.nc
+*.png
+!Pictures/numbermap.png
+!Pictures/nummers.png
