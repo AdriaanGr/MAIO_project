@@ -1,4 +1,8 @@
 *.nc
+!inao.nc
+!isnao_ncepncar.nc
+!iersst_nino12a.nc
+!icpc_ao.nc
 *.png
 !Pictures/numbermap.png
 !Pictures/nummers.png
