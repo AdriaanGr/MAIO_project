@@ -3,6 +3,7 @@
 !isnao_ncepncar.nc
 !iersst_nino12a.nc
 !icpc_ao.nc
+!iamo_hadsst.nc
 *.png
 !Pictures/numbermap.png
 !Pictures/nummers.png
