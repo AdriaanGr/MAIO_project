@@ -7,3 +7,4 @@
 *.png
 !Pictures/numbermap.png
 !Pictures/nummers.png
+./.ipynb_checkpoints/*
