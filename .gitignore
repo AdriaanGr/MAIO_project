@@ -4,6 +4,9 @@
 !iersst_nino12a.nc
 !icpc_ao.nc
 !iamo_hadsst.nc
+!icpc_nao_daily_a.txt.nc
+!icpc_ao_daily_a.txt.nc
+!di
 *.png
 !Pictures/numbermap.png
 !Pictures/nummers.png
